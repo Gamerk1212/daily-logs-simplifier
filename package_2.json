@@ -1,8 +1,0 @@
-{
-  "name": "daily-logs-simplifier",
-  "version": "1.0.0",
-  "main": "src/index.html",
-  "repository": "git@github.com:mvhs-apps/daily-logs-simplifier.git",
-  "author": "MVCS Team",
-  "license": "MIT"
-}

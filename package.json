@@ -1,8 +1,18 @@
 {
-  "name": "daily-logs-simplifier",
+  "name": "google-docs-api-test",
   "version": "1.0.0",
   "main": "src/index.html",
-  "repository": "git@github.com:mvhs-apps/daily-logs-simplifier.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mvhs-apps/daily-logs-simplifier.git"
+  },
   "author": "MVCS Team",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhs-apps/daily-logs-simplifier/issues"
+  },
+  "homepage": "https://github.com/mvhs-apps/daily-logs-simplifier#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

@@ -8,11 +8,13 @@
   },
   "author": "MVCS Team",
   "license": "MIT",
+  "description": "This is a branch created to test out the Google Docs API script that is currently in development.",
   "bugs": {
     "url": "https://github.com/mvhs-apps/daily-logs-simplifier/issues"
   },
   "homepage": "https://github.com/mvhs-apps/daily-logs-simplifier#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "dependencies": {}
 }
